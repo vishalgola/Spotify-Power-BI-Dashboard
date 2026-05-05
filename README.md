@@ -23,7 +23,7 @@ An interactive and clean Power BI dashboard project built using Spotify data. Th
 
 ---
 
-## 🚀 Features Used
+## 🚀 
 
 - ✅ **Drillthrough Navigation** – for detailed album/artist exploration  
 - ✅ **Page Navigation Buttons** – clickable icons to switch between pages  
