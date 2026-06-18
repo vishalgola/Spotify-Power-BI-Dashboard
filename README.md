@@ -1,3 +1,4 @@
+# 🎵 Spotify Power BI Dashboard
 
 An interactive and clean Power BI dashboard project built using Spotify data. This report analyzes user listening patterns, track durations, and artist popularity. It’s structured across multiple pages, using advanced Power BI features like Drillthrough and Page Navigation for a smooth analytical experience.
 
