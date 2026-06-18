@@ -4,7 +4,6 @@ An interactive and clean Power BI dashboard project built using Spotify data. Th
 
 ---
 
-## 📊 Dashboard Pages
 
 ### 1. 🔍 Overview
 - High-level summary of Spotify data
