@@ -11,6 +11,7 @@ An interactive and clean Power BI dashboard project built using Spotify data. Th
 - Displays top albums, artists, and total track counts
 - Page navigation button for seamless movement to details
 
+### 2. ⏱️ Listening Time & Details
 - Visual breakdown of track playtime
 - Highlights track duration, play frequency, and artist-wise patterns
 - Enables interactive analysis using filters
