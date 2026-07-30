@@ -6,7 +6,6 @@ An interactive and clean Power BI dashboard project built using Spotify data. Th
 
 ## 📊 Dashboard Pages
 
-### 1. 🔍 Overview
 - High-level summary of Spotify data
 - Displays top albums, artists, and total track counts
 - Page navigation button for seamless movement to details
